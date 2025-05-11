@@ -10,9 +10,9 @@ I specialize in building modern web applications using **Python**, **FastAPI**, 
 
   
 🚀 **Recent Projects**:
-- 📈 [Portfolio Tracker with Django and React](link-to-project)
-- 📊 [FastAPI REST API for User Management](link-to-project)
-- 📦 [Dockerized Microservice for Data Analysis](link-to-project)
+- 📈 
+- 📊 
+- 📦 
 
 
 📬 **Contact**:
